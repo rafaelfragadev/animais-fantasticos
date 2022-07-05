@@ -12,5 +12,4 @@ fetch(url)
 }
 // https://www.blockchain.com/ticker
 
-'https://www.blockchain.com/ticker'
-'.btc-preco'
+
